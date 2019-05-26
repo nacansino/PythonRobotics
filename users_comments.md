@@ -7,6 +7,12 @@ If you found other users, please make an issue to let me know.
 
 - [CSCI/ARTI 4530/6530: Introduction to Robotics (Fall 2018),  University of Georgia ](http://cobweb.cs.uga.edu/~ramviyas/csci_x530.html)
 
+# Stargazers location map
+
+You can check stargazer's locations of this project from:
+
+- [Stargazers location map](https://drive.google.com/open?id=1bBXS9IQmZ3Tfe1wNGvJbObRt9Htt4PGC&usp=sharing)
+
 # Individual users comments
 
 These are comments from user's using [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/AtsushiSakai)
@@ -160,6 +166,61 @@ You rock!
 
 --Matt
 
+---
+
+Dear AtsushiSakai, <br>You are the best. This is by far the best tutorial for learning and implementing robotics. <br>Thanks a lot for your time and efforts to do this!
+
+--Adi B
+
+---
+
+Dear Atushi, thank you for this amazing repository. It is a pleasure to have access to python algorithms without the burden of ROS. While I'm no longer working on such robotics projects, it's wonderful to know its available when I need it and it was amazing to see all the beautiful animations for each algorithm.
+
+--Shreeyak Sajjan
+
+---
+
+Dear AtsushiSakai <br>Thank you for your contributions!
+
+--Luo
+
+---
+
+Dear AtsushiSakai, Your visualizations are awesome, and I am going to have this link bookmarked for future references. Thank you!
+
+--Srinivasa Varadhan Agaram Chakravarthy
+
+---
+
+Dear AtsushiSakai, <br>Thank you for this great resource! I very much appreciate all your hard work and effort.
+
+--Mridul Aanjaneya
+
+---
+
+Thank you for the python robotics sample code and visualizations!! This is my new favorite thing on the internet.
+
+--selamg@mit.edu
+
+---
+
+Mr AtsushiSakai .. <br>Your work and teaching is light for me <br>thank you very much for giving time and effort to make it public for us
+
+--Karim Anass
+
+---
+
+Thank You
+
+--Anonymous
+
+---
+
+I've learned the robotics from the traditional way of solving problem through finding packages and reading papers. This amazing project is unbelievably helpful for new-comers to learn and get familiar with the algorithms. Gods know how many hours you've taken to sort all the materials and written everything into one single coherent project. I'm truly amazed and deepest appreciation.
+
+--Ewing Kang
+
+
 =========
 
 # Citations
@@ -171,7 +232,10 @@ URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8516589&isnumber=85
 
 2. Peggy (Yuchun) Wang and Caitlin Hogan, "Path Planning with Dynamic Obstacle Avoidance for a Jumping-Enabled Robot", AA228/CS238 class report, Department of Computer Science, Stanford University, URL: https://web.stanford.edu/class/aa228/reports/2018/final113.pdf
 
+
 # Others
 
 - Autonomous Vehicle Readings https://richardkelley.io/readings
+
+- 36 Amazing Python Open Source Projects (v.2019) – Mybridge for Professionals https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450
 
